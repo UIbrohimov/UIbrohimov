@@ -1,4 +1,4 @@
-# Ibrohimo Ubaydullo
+# Ibrohimov Ubaydullo
 
 - 👋 Hi, I’m @UIbrohimov
 - 👀 I’m interested in programming and system administration.
