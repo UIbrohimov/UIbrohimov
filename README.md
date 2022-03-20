@@ -10,5 +10,3 @@
 UIbrohimov/UIbrohimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![alt text for screen readers](/home/ubaydullo/ubaydullo/Ubaaaay/MEEEE/media/RASM/best/X.bmp "Text to show on mouseover")
