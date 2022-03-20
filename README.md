@@ -1,3 +1,5 @@
+# Ibrohimo Ubaydullo
+
 - 👋 Hi, I’m @UIbrohimov
 - 👀 I’m interested in programming and system administration.
 - 🌱 I’m currently learning django webframework.
@@ -9,7 +11,4 @@ UIbrohimov/UIbrohimov is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-
-# Ibrohimo Ubaydullo
-
-/home/ubaydullo/ubaydullo/Ubaaaay/MEEEE/media/RASM/best/X.bmp
+![alt text for screen readers](/home/ubaydullo/ubaydullo/Ubaaaay/MEEEE/media/RASM/best/X.bmp "Text to show on mouseover")
