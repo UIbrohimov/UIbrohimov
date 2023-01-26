@@ -1,9 +1,9 @@
 # Ibrohimov Ubaydullo
 
 - 👋 Hi, I’m @UIbrohimov
-- 👀 I’m interested in programming and system administration.
-- 🌱 I’m currently learning django webframework.
-- 💞️ I’m looking to collaborate on making powerful web applications with django.
+- 👀 I’m interested in extream programming.
+- 🌱 I’m currently learning ML.
+- 💞️ I’m looking forward to create greate AI tools with ML libraries.
 - 📫 How to reach me, phone: +998906676625, email: ubuhobbit@gmail.com, telegram: @UIbrohimov, website: https://ubaydullo.uz
 
 <!---
